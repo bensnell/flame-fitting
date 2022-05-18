@@ -14,7 +14,7 @@ import numpy as np
 import chumpy as ch
 import pickle as pickle
 
-from fitting.util import load_binary_pickle
+from .util import load_binary_pickle
 
 # -----------------------------------------------------------------------------
 
