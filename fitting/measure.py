@@ -16,8 +16,8 @@ import matplotlib.cm as cm
 
 # -----------------------------------------------------------------------------
 
-def mesh2mesh( mesh_v_1, mesh_v_2 ):
-	return dist = np.linalg.norm( mesh_v_2 - mesh_v_1, axis=1 )
+# def mesh2mesh( mesh_v_1, mesh_v_2 ):
+# 	return dist = np.linalg.norm( mesh_v_2 - mesh_v_1, axis=1 )
 
 # -----------------------------------------------------------------------------
 
